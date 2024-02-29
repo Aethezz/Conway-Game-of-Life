@@ -1,7 +1,4 @@
-import time
 import pygame
-import numpy as np
-import random
 
 pygame.init()
 
